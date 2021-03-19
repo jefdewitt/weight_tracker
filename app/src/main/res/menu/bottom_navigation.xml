@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Sign Out" />
+
+    <item
+        android:id="@+id/nav_grid"
+        android:icon="@drawable/ic_baseline_grid_on_24"
+        android:title="Weight Grid" />
+
+    <item
+        android:id="@+id/nav_goal"
+        android:icon="@drawable/ic_baseline_stars_24"
+        android:title="Goal Weight" />
+
+    <item
+        android:id="@+id/nav_notifications"
+        android:icon="@drawable/ic_baseline_notifications_active_24"
+        android:title="Notifications" />
+
+</menu>

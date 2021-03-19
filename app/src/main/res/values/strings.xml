@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Weight Tracker</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="username_field_title">Username</string>
+    <string name="username_input">username</string>
+    <string name="password_field_title">Password</string>
+    <string name="password_input">password</string>
+    <string name="sign_in_button">Sign In</string>
+    <string name="sign_up_button">Sign Up</string>
+    <string name="add_new_row_button">Add</string>
+    <string name="signin_header">LOGIN</string>
+    <string name="weight_grid_header">WEIGHT GRID</string>
+    <string name="notifications_header">NOTIFICATIONS</string>
+    <string name="notifications_button">Enable Text Alerts</string>
+    <string name="goal_weight">170</string>
+    <string name="goal_button">Update</string>
+    <string name="goal_header">GOAL WEIGHT</string>
+
+    <string-array name="dates">
+        <item>2/1/21</item>
+        <item>2/2/21</item>
+        <item>2/3/21</item>
+        <item>2/4/21</item>
+    </string-array>
+
+    <string-array name="weights">
+        <item>187.5</item>
+        <item>186.6</item>
+        <item>185.8</item>
+        <item>185.4</item>
+    </string-array>
+
+</resources>
